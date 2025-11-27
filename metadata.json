@@ -1,0 +1,5 @@
+{
+  "name": "Seamless Image Stitcher",
+  "description": "A pure frontend application to vertically stitch multiple images into a single long screenshot while preserving original quality and EXIF data from the first image.",
+  "requestFramePermissions": []
+}
